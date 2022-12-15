@@ -1,1 +1,6 @@
-#https://github.com/sherazctn/USAProject.git
+# This program prints Hello, world!
+
+#print('Hello, Sheraz!')
+#print('Welcome to Github Collabration!')
+
+print("Hello world")
